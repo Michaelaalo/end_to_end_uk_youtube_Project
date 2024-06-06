@@ -1,4 +1,4 @@
-# Data Portfolio: Excel to Power BI
+# Excel to Power BI end to end Project 
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
 

@@ -99,7 +99,7 @@ Potential data visuals include:
 3. Scorecards
 4. Horizontal bar chart
 
-![Dashboard-Mockup](assets/images/dashboard_mockup.png)
+<img width="672" alt="dashboard_mockup" src="https://github.com/Michaelaalo/end_to_end_uk_youtube_Project/assets/93910710/481b2282-6fd7-4aab-8fa4-22dc98c9f151">
 
 ## Tools
 

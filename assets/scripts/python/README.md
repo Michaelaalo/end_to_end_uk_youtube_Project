@@ -1,4 +1,4 @@
-### Explaining the Python Code for Beginners
+### Explaination the Python Code block
 
 Here's a step-by-step explanation of the Python code:
 

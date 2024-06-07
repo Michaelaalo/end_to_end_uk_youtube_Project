@@ -245,7 +245,7 @@ WHERE
 
 ### Output
 
-![Column count check](assets/images/2_column_count_check.png)
+![2_column_count_check](https://github.com/Michaelaalo/end_to_end_uk_youtube_Project/assets/93910710/6cf7617f-757e-4634-8482-d2139c2dfcf5)
 
 ## Data Type Check
 
@@ -267,7 +267,8 @@ WHERE
 
 ### Output
 
-![Data type check](assets/images/3_data_type_check.png)
+![3_data_type_check](https://github.com/Michaelaalo/end_to_end_uk_youtube_Project/assets/93910710/88895ad2-c521-4ab0-9ce5-1c1a5a991845)
+
 
 ## Duplicate Count Check
 
@@ -293,7 +294,8 @@ HAVING
 
 ### Output
 
-![Duplicate count check](assets/images/4_duplicate_records_check.png)
+![4_duplicate_records_check](https://github.com/Michaelaalo/end_to_end_uk_youtube_Project/assets/93910710/87d31b6a-919d-4a0b-ae9f-97940476fd4a)
+
 
 # Visualization
 

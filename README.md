@@ -303,7 +303,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024.gif)
+![top_uk_youtubers_2024](https://github.com/Michaelaalo/end_to_end_uk_youtube_Project/assets/93910710/55ee8236-8f10-4699-807d-4f79403794f4)
 
 This shows the top UK YouTubers in 2024 so far.
 

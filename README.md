@@ -380,51 +380,102 @@ VAR subscriberEngRate = ROUND(subscriberEngagementRate, 2)
 RETURN subscriberEngRate
 ```
 
-# Analysis
-
 ## Findings
 
-- What insights have we discovered?
+### Overview
+In this analysis, we aimed to identify top-performing YouTube channels based on various metrics to provide insights for our marketing client. The key questions we addressed are as follows:
 
-1. The top 10 YouTubers have millions of subscribers, indicating significant influence and reach.
-2. Some channels have a high number of videos uploaded, suggesting consistent content creation.
-3. Certain channels boast the highest view counts, highlighting their popularity.
-4. A few channels have the highest average views per video, indicating highly engaging content.
-5. Some channels have a high views-per-subscriber ratio, showcasing strong audience engagement.
-6. Certain channels exhibit high subscriber engagement rates per video, indicating dedicated followers.
+1. Who are the top 10 YouTubers with the most subscribers?
+2. Which 3 channels have uploaded the most videos?
+3. Which 3 channels have the most views?
+4. Which 3 channels have the highest average views per video?
+5. Which 3 channels have the highest views per subscriber ratio?
+6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 
-## Validation
+### Key Questions and Answers
 
-- How do we validate the findings?
+#### 1. Top 10 YouTubers with the Most Subscribers
+| Rank | Channel Name          | Subscribers (M) |
+|------|-----------------------|-----------------|
+| 1    | NoCopyrightSounds     | 33.60           |
+| 2    | DanTDM                | 28.60           |
+| 3    | Dan Rhodes            | 26.50           |
+| 4    | Miss Katy             | 24.50           |
+| 5    | Mister Max            | 24.40           |
+| 6    | KSI                   | 24.10           |
+| 7    | Jelly                 | 23.50           |
+| 8    | Dua Lipa              | 23.30           |
+| 9    | Sidemen               | 21.00           |
+| 10   | Ali-A                 | 18.90           |
 
-1. Cross-reference data with external sources or YouTube analytics for accuracy.
-2. Confirm the consistency of engagement metrics across various platforms.
-3. Ensure that the calculated measures align with industry benchmarks.
+#### 2. Channels with the Most Videos Uploaded
+| Rank | Channel Name  | Videos Uploaded |
+|------|---------------|-----------------|
+| 1    | GRM Daily     | 14,696          |
+| 2    | Manchester City | 8,248          |
+| 3    | Yogscast      | 6,435           |
 
-## Discovery
+#### 3. Channels with the Most Views
+| Rank | Channel Name | Total Views (B) |
+|------|--------------|------------------|
+| 1    | DanTDM       | 19.78            |
+| 2    | Dan Rhodes   | 18.56            |
+| 3    | Mister Max   | 15.97            |
 
-- What additional insights or unexpected patterns have we uncovered?
+#### 4. Channels with the Highest Average Views per Video
+| Channel Name | Average Views per Video (M) |
+|--------------|-----------------------------|
+| Mark Ronson  | 32.27                       |
+| Jessie J     | 5.97                        |
+| Dua Lipa     | 5.76                        |
 
-1. A few channels with lower subscriber counts but high engagement rates suggest a niche but loyal audience.
-2. The correlation between total views and total subscribers varies significantly across channels, indicating differing content strategies.
+#### 5. Channels with the Highest Views per Subscriber Ratio
+| Rank | Channel Name       | Views per Subscriber |
+|------|--------------------|----------------------|
+| 1    | GRM Daily          | 1185.79              |
+| 2    | Nickelodeon        | 1061.04              |
+| 3    | Disney Junior UK   | 1031.97              |
 
-# Recommendations
+#### 6. Channels with the Highest Subscriber Engagement Rate per Video Uploaded
+| Rank | Channel Name  | Subscriber Engagement Rate |
+|------|---------------|----------------------------|
+| 1    | Mark Ronson   | 343,000                    |
+| 2    | Jessie J      | 110,416.67                 |
+| 3    | Dua Lipa      | 104,954.95                 |
 
-## Potential ROI
+### Discovery
+Our analysis revealed that:
 
-- How can these insights be monetized?
+- **NoCopyrightSounds**, **Dan Rhodes**, and **DanTDM** have the most subscribers in the UK.
+- **GRM Daily**, **Manchester City**, and **Yogscast** have the highest number of videos uploaded.
+- **DanTDM**, **Dan Rhodes**, and **Mister Max** have the most views.
+- Entertainment and music channels dominate in terms of subscriber engagement and average views per video.
 
-1. Partnering with top YouTubers can drive significant brand exposure and engagement.
-2. Focusing on channels with high engagement rates can yield better ROI for marketing campaigns.
+### Recommendations
+Based on the insights, we recommend:
 
-## Potential Courses of Action
+1. **Dan Rhodes** as the best YouTube channel to collaborate with for maximizing visibility due to the highest subscriber count and significant average views per video.
+2. While **GRM Daily**, **Manchester City**, and **Yogscast** upload the most videos, their potential ROI is lower. It may be better to allocate the budget to channels with higher engagement and view counts.
+3. **Mister Max** is ideal for maximizing reach, but **DanTDM** and **Dan Rhodes** also present excellent long-term options given their large subscriber bases and high average views.
 
-- What actions should be taken based on the insights?
+### Potential ROI
+1. **Dan Rhodes**: 
+   - Net profit per video: **$1,065,000**
+   
+2. **Mister Max**:
+   - Net profit per video: **$1,276,000**
 
-1. Prioritize collaborations with YouTubers who have high engagement rates and average views per video.
-2. Allocate more resources to channels that consistently produce engaging content.
-3. Consider niche channels with loyal audiences for targeted marketing campaigns.
+3. **DanTDM**:
+   - Product placement net profit: **$484,000** per video
+   - Influencer marketing net profit: **$404,000**
 
-# Conclusion
+4. **NoCopyrightSounds**:
+   - Net profit per video: **$642,000**
 
-The dashboard provides valuable insights into the top UK YouTubers in 2024. By leveraging these insights, the marketing team can make data-driven decisions about which YouTubers to partner with, maximizing the effectiveness of their campaigns and ultimately driving better ROI.
+### Action Plan
+1. **Initiate Contact**: Begin discussions with Dan Rhodes for a potential partnership.
+2. **Negotiation**: Ensure contracts are within budget allocations.
+3. **Campaign Kickoff**: Launch the campaigns and monitor their performance against KPIs.
+4. **Review and Optimize**: Assess campaign results, gather insights, and optimize based on feedback.
+
+By starting with Dan Rhodes, we can measure the success of the campaign and plan future collaborations with other high-performing channels like **DanTDM**, **Mister Max**, and **NoCopyrightSounds**. This approach will help us maximize ROI and achieve the marketing client's goals effectively.

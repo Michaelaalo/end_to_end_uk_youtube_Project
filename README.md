@@ -223,7 +223,8 @@ FROM
     view_uk_youtubers_2024;
 ```
 
-![Row count check](assets/images/1_row_count_check.png)
+![1_row_count_check](https://github.com/Michaelaalo/end_to_end_uk_youtube_Project/assets/93910710/a80a168a-4429-44b8-9ed7-1faf8245414c)
+
 
 ## Column Count Check
 

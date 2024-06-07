@@ -1,4 +1,4 @@
-### Explaining the SQL Code for Beginners
+### Explaination of the SQL Code 
 
 Here’s a step-by-step explanation of the SQL code:
 
